@@ -1,4 +1,4 @@
-# virtual-painter
+# Virtual Painter
 
 AI Virtual Painter | Air Canvas | OpenCV Python | Computer Vision 
 
